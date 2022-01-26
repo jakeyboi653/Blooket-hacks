@@ -4,9 +4,9 @@
 
 This cheat only works in gold game mode!
 
-# chest-ESP.js
+# chestESP.js
 
-### Get the script from the file [chest-ESP.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/gold/chestESP.js) or https://schoolcheats.net/blooket
+### Get the script from the file [chestESP.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/gold/chestESP.js) or https://schoolcheats.net/blooket
 
 # getGold.js
 
