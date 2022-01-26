@@ -9,9 +9,10 @@ const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
 
     (new Promise(async (res, rej) => {
-        var blooks = []
+        var blooks = [];
+
         for (let i = 0; i < amount; i++) {
-            await sleep(100)
+            await sleep(100);
             fetch('https://api.blooket.com/api/users/unlockblook', {
                 method: "PUT",
                 headers: {
@@ -24,7 +25,7 @@ const sleep = (ms) => new Promise(r => setTimeout(r, ms));
                     name: data.name,
                 }),
             }).then(r => { 
-                if (r.status == 200) r.json().then(r => blooks.push(r.unlockedBlook)) 
+                if (r.status == 200) r.json().then(r => blooks.push(r.unlockedBlook));
             });
         };
         res(blooks);
