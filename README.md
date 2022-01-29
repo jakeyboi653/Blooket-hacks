@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-
 
 Blooket is now banning people who are using hacks.
 
-I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.
+**I just wanted to say that I'm not responsible if you get banned. I'm not responsible for your actions.**
 
 ## PoC
 ![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
