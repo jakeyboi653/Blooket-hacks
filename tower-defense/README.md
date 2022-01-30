@@ -17,3 +17,7 @@ This cheat only works in tower defense game mode!
 # getCash.js
 
 ### Get the script from the file [getCash.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/getCash.js) or https://schoolcheats.net/blooket
+
+# maxOutTowerStats.js
+
+### Get the script from the file [getCash.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/tower-defense/maxOutTowerStats.js)
