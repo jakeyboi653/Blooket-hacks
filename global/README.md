@@ -22,7 +22,7 @@ note: **This cheat also includes adding max xp for the day**
 
 note: **This script is a spoofer.**
 
-### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooks.js) or https://schoolcheats.net/blooket
+### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooks.js)
 
 # getEveryAnswerCorrect.js
 
