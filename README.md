@@ -14,6 +14,10 @@ All of the hacks are sorted into the gamemode they can be used in. If you encoun
 
 If you are a programmer and want to make your own stuff for blooket make sure to check out the [blooket library](https://github.com/glixzzy/blooket-wrapper).
 
+## Current Version
+
+Blooket Hack v3.9
+
 # Usage
 
 ## How to use
