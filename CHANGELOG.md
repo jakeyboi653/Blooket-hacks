@@ -4,23 +4,32 @@
 
 ## Blooket Hack v4
 
-Unreleased
+- Another code revamp!!
+- Fully working validation checks! (like a kill switch to use the blooket hack, only managed by me.)
+- New cheats for:
+    - Blook Rush
+    - Classic
+    - Battle Royale
+- **New bypass for Blookets detection on cheating 🎉**
+- All the hacks will work in solo, live, and homework link games now!
+- Fixed it so that you can run any script more than once in the same game now.
 
 ### Shorter Versions
 
-- v3.9 - Added beta validation checks to use the Blooket hack and hopeful spoof csp-report request (`document-uri`)
-- v3.5 - Fixed major CSP header problems
+- v3.9 - Added beta validation checks to use the Blooket hack
+    - hopeful spoof for the csp-report request (`document-uri`)
+- v3.5 - Fixed a lot of CSP header problems
 
 ## Blooket Hack v3
 
-- Major code revamp (Code revamp for only me of course cause y'all can't see the code since its obfuscated 😆)
+- Inside code revamp (Code revamp for only me of course, cause y'all can't see the code since its obfuscated 😆)
 - fixed all the error handler (links)
 
 ## Blooket Hack v2
 
 - Tons of bug fixes
 - A lot of new scripts for more/new game modes
-- Added new out of game scripts
+- Added new scripts
 
 ## Blooket Hack v1
 
