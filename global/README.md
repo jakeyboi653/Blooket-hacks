@@ -18,12 +18,6 @@ note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js) or https://schoolcheats.net/blooket
 
-# getAllBlooks.js
-
-note: **This script is a spoofer.**
-
-### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooks.js)
-
 # getEveryAnswerCorrect.js
 
 ### Get the script from the file [getEveryAnswerCorrect.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getEveryAnswerCorrect.js) or https://schoolcheats.net/blooket
