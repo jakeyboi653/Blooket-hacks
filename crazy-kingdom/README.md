@@ -4,7 +4,7 @@
 
 This cheat only works in crazy kingdom gamemode!
 
-# hoiceESP.js
+# choiceESP.js
 
 ### Get the script from the file [choiceESP.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crazy-kingdom/choiceESP.js) or https://schoolcheats.net/blooket
 
