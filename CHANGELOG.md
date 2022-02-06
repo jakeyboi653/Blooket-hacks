@@ -14,16 +14,16 @@
 - All the hacks will work in solo, live, and homework link games now!
 - Fixed it so that you can run any script more than once in the same game now.
 
+## Blooket Hack v3
+
+- Inside code revamp (Code revamp for only me of course, cause y'all can't see the code since its obfuscated 😆)
+- fixed all the error handler (links)
+
 ### Shorter Versions
 
 - v3.9 - Added beta validation checks to use the Blooket hack
     - hopeful spoof for the csp-report request (`document-uri`)
 - v3.5 - Fixed a lot of CSP header problems
-
-## Blooket Hack v3
-
-- Inside code revamp (Code revamp for only me of course, cause y'all can't see the code since its obfuscated 😆)
-- fixed all the error handler (links)
 
 ## Blooket Hack v2
 
