@@ -14,6 +14,11 @@
 - All the hacks will work in solo, live, and homework link games now!
 - Fixed it so that you can run any script more than once in the same game now.
 
+### Shoter Versions
+
+- v4.1 - Fixed most of the global scripts due to a new patch on Blooket
+    - Removed python daily add tokens because it got patched.
+
 ## Blooket Hack v3
 
 - Inside code revamp (Code revamp for only me of course, cause y'all can't see the code since its obfuscated 😆)
