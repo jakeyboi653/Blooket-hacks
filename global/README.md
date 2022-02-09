@@ -10,10 +10,6 @@ note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [addTokens.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js) or https://schoolcheats.net/blooket
 
-# floodGame.js
-
-### Get the script from the file [floodGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGame.js) or https://schoolcheats.net/blooket
-
 # getAllBlooksInGame.js
 
 ### Get the script from the file [getAllBlooksInGame.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js) or https://schoolcheats.net/blooket
