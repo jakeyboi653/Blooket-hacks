@@ -1,1 +1,0 @@
-window.open('https://twitter.com/glizuwu')
