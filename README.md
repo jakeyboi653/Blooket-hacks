@@ -16,7 +16,7 @@ If you are a programmer and want to make your own stuff for blooket make sure to
 
 ## Current Version
 
-Blooket Hack v4.1
+Blooket Hack v4.2
 
 - **View all the changelogs [here](https://github.com/glixzzy/blooket-hack/blob/main/CHANGELOG.md).**
 
