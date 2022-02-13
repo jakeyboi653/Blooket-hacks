@@ -19,6 +19,8 @@
 - v4.1 - Fixed most of the global scripts due to a new patch on Blooket
     - Removed python daily add tokens because it got patched.
 
+- v4.2 - Fixed a lot of bugs
+
 ## Blooket Hack v3
 
 - Inside code revamp (Code revamp for only me of course, cause y'all can't see the code since its obfuscated 😆)
