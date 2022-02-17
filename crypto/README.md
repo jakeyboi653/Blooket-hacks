@@ -13,3 +13,15 @@ This cheat only works in crypto hack game mode!
 **note: You have to run this cheat everytime when you are on the page where you try to hack someones password.**
 
 ### Get the script from the file [getOtherUsersPassword.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crypto/getOtherUsersPassword.js) or https://schoolcheats.net/blooket
+
+# removeHack.js
+
+### Get the script from the file [removeHack.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crypto/removeHack.js)
+
+# resetPlayerCrypto.js
+
+### Get the script from the file [resetPlayerCrypto.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crypto/resetPlayerCrypto.js)
+
+# setCustomPassword.js
+
+### Get the script from the file [setCustomPassword.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/crypto/setCustomPassword.js)
